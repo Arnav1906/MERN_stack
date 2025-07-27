@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "review114",
+    "product_id": "product789",
+    "user_id": "user123",
+    "rating": 5,
+    "comment": "Excellent sound quality and comfortable fit!",
+    "review_date": "2025-07-22T11:45:00Z"
+  },
+  {
+    "_id": "review115",
+    "product_id": "product790",
+    "user_id": "user124",
+    "rating": 4,
+    "comment": "Good for running, but could be more cushioned.",
+    "review_date": "2025-07-19T08:00:00Z"
+  },
+  {
+    "_id": "review116",
+    "product_id": "product791",
+    "user_id": "user125",
+    "rating": 5,
+    "comment": "Makes perfect coffee every time!",
+    "review_date": "2025-07-23T10:30:00Z"
+  },
+  {
+    "_id": "review117",
+    "product_id": "product792",
+    "user_id": "user126",
+    "rating": 4,
+    "comment": "Fast and reliable, but battery life could be better.",
+    "review_date": "2025-07-20T12:00:00Z"
+  },
+  {
+    "_id": "review118",
+    "product_id": "product793",
+    "user_id": "user127",
+    "rating": 5,
+    "comment": "Perfect thickness and grip for yoga.",
+    "review_date": "2025-07-21T14:00:00Z"
+  },
+  {
+    "_id": "review119",
+    "product_id": "product794",
+    "user_id": "user128",
+    "rating": 3,
+    "comment": "Works well, but a bit noisy.",
+    "review_date": "2025-07-22T16:00:00Z"
+  },
+  {
+    "_id": "review120",
+    "product_id": "product795",
+    "user_id": "user129",
+    "rating": 5,
+    "comment": "Amazing camera and speed!",
+    "review_date": "2025-07-18T09:00:00Z"
+  },
+  {
+    "_id": "review121",
+    "product_id": "product796",
+    "user_id": "user130",
+    "rating": 4,
+    "comment": "Great balance, but strings wear out quickly.",
+    "review_date": "2025-07-17T11:00:00Z"
+  },
+  {
+    "_id": "review122",
+    "product_id": "product797",
+    "user_id": "user131",
+    "rating": 5,
+    "comment": "Cleans thoroughly and easy to use.",
+    "review_date": "2025-07-16T13:00:00Z"
+  },
+  {
+    "_id": "review123",
+    "product_id": "product798",
+    "user_id": "user132",
+    "rating": 4,
+    "comment": "Good sound, but fit could be improved.",
+    "review_date": "2025-07-15T15:00:00Z"
+  }
+]

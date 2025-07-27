@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "payment113",
+    "order_id": "order112",
+    "amount": 199.98,
+    "method": "credit_card",
+    "status": "completed",
+    "transaction_date": "2025-07-20T09:20:00Z"
+  },
+  {
+    "_id": "payment114",
+    "order_id": "order113",
+    "amount": 59.99,
+    "method": "paypal",
+    "status": "pending",
+    "transaction_date": "2025-07-18T12:05:00Z"
+  },
+  {
+    "_id": "payment115",
+    "order_id": "order114",
+    "amount": 239.97,
+    "method": "debit_card",
+    "status": "completed",
+    "transaction_date": "2025-07-22T15:35:00Z"
+  },
+  {
+    "_id": "payment116",
+    "order_id": "order115",
+    "amount": 999.99,
+    "method": "credit_card",
+    "status": "completed",
+    "transaction_date": "2025-07-19T10:05:00Z"
+  },
+  {
+    "_id": "payment117",
+    "order_id": "order116",
+    "amount": 29.99,
+    "method": "paypal",
+    "status": "pending",
+    "transaction_date": "2025-07-21T13:05:00Z"
+  },
+  {
+    "_id": "payment118",
+    "order_id": "order117",
+    "amount": 79.99,
+    "method": "debit_card",
+    "status": "completed",
+    "transaction_date": "2025-07-23T16:05:00Z"
+  },
+  {
+    "_id": "payment119",
+    "order_id": "order118",
+    "amount": 799.99,
+    "method": "credit_card",
+    "status": "completed",
+    "transaction_date": "2025-07-17T11:05:00Z"
+  },
+  {
+    "_id": "payment120",
+    "order_id": "order119",
+    "amount": 119.99,
+    "method": "paypal",
+    "status": "pending",
+    "transaction_date": "2025-07-16T14:05:00Z"
+  },
+  {
+    "_id": "payment121",
+    "order_id": "order120",
+    "amount": 199.99,
+    "method": "debit_card",
+    "status": "completed",
+    "transaction_date": "2025-07-15T17:05:00Z"
+  },
+  {
+    "_id": "payment122",
+    "order_id": "order121",
+    "amount": 99.99,
+    "method": "credit_card",
+    "status": "completed",
+    "transaction_date": "2025-07-14T20:05:00Z"
+  }
+]

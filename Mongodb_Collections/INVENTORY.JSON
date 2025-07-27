@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "inventory115",
+    "product_id": "product789",
+    "quantity_available": 50,
+    "supplier_id": "supplier202",
+    "last_updated": "2025-07-23T08:00:00Z",
+    "low_stock_threshold": 10
+  },
+  {
+    "_id": "inventory116",
+    "product_id": "product790",
+    "quantity_available": 100,
+    "supplier_id": "supplier203",
+    "last_updated": "2025-07-22T09:00:00Z",
+    "low_stock_threshold": 20
+  },
+  {
+    "_id": "inventory117",
+    "product_id": "product791",
+    "quantity_available": 30,
+    "supplier_id": "supplier204",
+    "last_updated": "2025-07-21T11:00:00Z",
+    "low_stock_threshold": 5
+  },
+  {
+    "_id": "inventory118",
+    "product_id": "product792",
+    "quantity_available": 20,
+    "supplier_id": "supplier205",
+    "last_updated": "2025-07-20T10:00:00Z",
+    "low_stock_threshold": 5
+  },
+  {
+    "_id": "inventory119",
+    "product_id": "product793",
+    "quantity_available": 150,
+    "supplier_id": "supplier206",
+    "last_updated": "2025-07-19T12:00:00Z",
+    "low_stock_threshold": 30
+  },
+  {
+    "_id": "inventory120",
+    "product_id": "product794",
+    "quantity_available": 40,
+    "supplier_id": "supplier207",
+    "last_updated": "2025-07-18T14:00:00Z",
+    "low_stock_threshold": 10
+  },
+  {
+    "_id": "inventory121",
+    "product_id": "product795",
+    "quantity_available": 60,
+    "supplier_id": "supplier208",
+    "last_updated": "2025-07-17T16:00:00Z",
+    "low_stock_threshold": 15
+  },
+  {
+    "_id": "inventory122",
+    "product_id": "product796",
+    "quantity_available": 25,
+    "supplier_id": "supplier209",
+    "last_updated": "2025-07-16T18:00:00Z",
+    "low_stock_threshold": 5
+  },
+  {
+    "_id": "inventory123",
+    "product_id": "product797",
+    "quantity_available": 35,
+    "supplier_id": "supplier210",
+    "last_updated": "2025-07-15T20:00:00Z",
+    "low_stock_threshold": 10
+  },
+  {
+    "_id": "inventory124",
+    "product_id": "product798",
+    "quantity_available": 80,
+    "supplier_id": "supplier202",
+    "last_updated": "2025-07-14T22:00:00Z",
+    "low_stock_threshold": 20
+  }
+]

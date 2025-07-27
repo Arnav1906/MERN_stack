@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "user123",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password_hash": "hashedpassword123",
+    "address": { "street": "123 Main St", "city": "New York", "zip": "10001", "country": "USA" },
+    "registration_date": "2025-07-01T10:00:00Z",
+    "preferences": ["electronics", "books"]
+  },
+  {
+    "_id": "user124",
+    "name": "Alice Smith",
+    "email": "alice@example.com",
+    "password_hash": "hashedpassword456",
+    "address": { "street": "456 Elm St", "city": "Los Angeles", "zip": "90001", "country": "USA" },
+    "registration_date": "2025-06-15T14:30:00Z",
+    "preferences": ["clothing", "home"]
+  },
+  {
+    "_id": "user125",
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "password_hash": "hashedpassword789",
+    "address": { "street": "789 Oak Ave", "city": "Chicago", "zip": "60601", "country": "USA" },
+    "registration_date": "2025-07-10T09:00:00Z",
+    "preferences": ["sports", "electronics"]
+  },
+  {
+    "_id": "user126",
+    "name": "Carol Lee",
+    "email": "carol@example.com",
+    "password_hash": "hashedpassword012",
+    "address": { "street": "101 Pine Rd", "city": "Miami", "zip": "33101", "country": "USA" },
+    "registration_date": "2025-07-05T11:00:00Z",
+    "preferences": ["books", "home"]
+  },
+  {
+    "_id": "user127",
+    "name": "David Kim",
+    "email": "david@example.com",
+    "password_hash": "hashedpassword345",
+    "address": { "street": "202 Cedar Ln", "city": "Seattle", "zip": "98101", "country": "USA" },
+    "registration_date": "2025-07-12T13:00:00Z",
+    "preferences": ["electronics", "sports"]
+  },
+  {
+    "_id": "user128",
+    "name": "Eva Martinez",
+    "email": "eva@example.com",
+    "password_hash": "hashedpassword678",
+    "address": { "street": "303 Birch St", "city": "Boston", "zip": "02101", "country": "USA" },
+    "registration_date": "2025-07-15T15:00:00Z",
+    "preferences": ["clothing", "books"]
+  },
+  {
+    "_id": "user129",
+    "name": "Frank Nguyen",
+    "email": "frank@example.com",
+    "password_hash": "hashedpassword901",
+    "address": { "street": "404 Maple Ave", "city": "Denver", "zip": "80201", "country": "USA" },
+    "registration_date": "2025-07-18T17:00:00Z",
+    "preferences": ["home", "sports"]
+  },
+  {
+    "_id": "user130",
+    "name": "Grace Patel",
+    "email": "grace@example.com",
+    "password_hash": "hashedpassword234",
+    "address": { "street": "505 Walnut Dr", "city": "Austin", "zip": "78701", "country": "USA" },
+    "registration_date": "2025-07-20T19:00:00Z",
+    "preferences": ["electronics", "clothing"]
+  },
+  {
+    "_id": "user131",
+    "name": "Henry Wong",
+    "email": "henry@example.com",
+    "password_hash": "hashedpassword567",
+    "address": { "street": "606 Spruce Ct", "city": "Phoenix", "zip": "85001", "country": "USA" },
+    "registration_date": "2025-07-22T21:00:00Z",
+    "preferences": ["books", "sports"]
+  },
+  {
+    "_id": "user132",
+    "name": "Ivy Ramirez",
+    "email": "ivy@example.com",
+    "password_hash": "hashedpassword890",
+    "address": { "street": "707 Fir Blvd", "city": "Portland", "zip": "97201", "country": "USA" },
+    "registration_date": "2025-07-23T23:00:00Z",
+    "preferences": ["home", "electronics"]
+  }
+]

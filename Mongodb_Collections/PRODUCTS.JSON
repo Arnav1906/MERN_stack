@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "product789",
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling over-ear headphones with 20-hour battery life.",
+    "price": 149.99,
+    "stock_quantity": 50,
+    "category": "electronics",
+    "images": ["https://example.com/headphones1.jpg"],
+    "ratings": 4.5
+  },
+  {
+    "_id": "product790",
+    "name": "Running Shoes",
+    "description": "Lightweight athletic shoes for jogging and sports.",
+    "price": 89.99,
+    "stock_quantity": 100,
+    "category": "sports",
+    "images": ["https://example.com/shoes1.jpg"],
+    "ratings": 4.2
+  },
+  {
+    "_id": "product791",
+    "name": "Coffee Maker",
+    "description": "Automatic drip coffee maker with programmable timer.",
+    "price": 59.99,
+    "stock_quantity": 30,
+    "category": "home",
+    "images": ["https://example.com/coffeemaker1.jpg"],
+    "ratings": 4.7
+  },
+  {
+    "_id": "product792",
+    "name": "Laptop",
+    "description": "High-performance laptop with 16GB RAM and SSD.",
+    "price": 999.99,
+    "stock_quantity": 20,
+    "category": "electronics",
+    "images": ["https://example.com/laptop1.jpg"],
+    "ratings": 4.8
+  },
+  {
+    "_id": "product793",
+    "name": "Yoga Mat",
+    "description": "Non-slip mat for yoga and fitness exercises.",
+    "price": 29.99,
+    "stock_quantity": 150,
+    "category": "sports",
+    "images": ["https://example.com/mat1.jpg"],
+    "ratings": 4.4
+  },
+  {
+    "_id": "product794",
+    "name": "Blender",
+    "description": "High-speed blender for smoothies and soups.",
+    "price": 79.99,
+    "stock_quantity": 40,
+    "category": "home",
+    "images": ["https://example.com/blender1.jpg"],
+    "ratings": 4.6
+  },
+  {
+    "_id": "product795",
+    "name": "Smartphone",
+    "description": "Latest model with 5G and high-res camera.",
+    "price": 799.99,
+    "stock_quantity": 60,
+    "category": "electronics",
+    "images": ["https://example.com/phone1.jpg"],
+    "ratings": 4.9
+  },
+  {
+    "_id": "product796",
+    "name": "Tennis Racket",
+    "description": "Professional-grade racket for tennis players.",
+    "price": 119.99,
+    "stock_quantity": 25,
+    "category": "sports",
+    "images": ["https://example.com/racket1.jpg"],
+    "ratings": 4.3
+  },
+  {
+    "_id": "product797",
+    "name": "Vacuum Cleaner",
+    "description": "Cordless vacuum with strong suction.",
+    "price": 199.99,
+    "stock_quantity": 35,
+    "category": "home",
+    "images": ["https://example.com/vacuum1.jpg"],
+    "ratings": 4.5
+  },
+  {
+    "_id": "product798",
+    "name": "Earbuds",
+    "description": "Wireless earbuds with noise cancellation.",
+    "price": 99.99,
+    "stock_quantity": 80,
+    "category": "electronics",
+    "images": ["https://example.com/earbuds1.jpg"],
+    "ratings": 4.7
+  }
+]

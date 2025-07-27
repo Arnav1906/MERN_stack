@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "supplier202",
+    "name": "Tech Suppliers Inc.",
+    "contact_email": "supply@techinc.com",
+    "address": "456 Industrial Ave, San Francisco, CA 94103",
+    "products_supplied": ["product789", "product798"],
+    "rating": 4.8
+  },
+  {
+    "_id": "supplier203",
+    "name": "Sports Gear Ltd.",
+    "contact_email": "gear@sports.com",
+    "address": "789 Fitness Blvd, Miami, FL 33101",
+    "products_supplied": ["product790", "product793"],
+    "rating": 4.5
+  },
+  {
+    "_id": "supplier204",
+    "name": "Home Essentials Co.",
+    "contact_email": "essentials@home.com",
+    "address": "101 Kitchen St, Seattle, WA 98101",
+    "products_supplied": ["product791", "product794"],
+    "rating": 4.9
+  },
+  {
+    "_id": "supplier205",
+    "name": "Gadget World",
+    "contact_email": "gadget@world.com",
+    "address": "202 Tech Park, New York, NY 10001",
+    "products_supplied": ["product792", "product795"],
+    "rating": 4.7
+  },
+  {
+    "_id": "supplier206",
+    "name": "Fitness Pro",
+    "contact_email": "pro@fitness.com",
+    "address": "303 Gym Rd, Los Angeles, CA 90001",
+    "products_supplied": ["product793", "product796"],
+    "rating": 4.6
+  },
+  {
+    "_id": "supplier207",
+    "name": "Kitchen Masters",
+    "contact_email": "masters@kitchen.com",
+    "address": "404 Cook Ave, Chicago, IL 60601",
+    "products_supplied": ["product794", "product797"],
+    "rating": 4.8
+  },
+  {
+    "_id": "supplier208",
+    "name": "Mobile Tech",
+    "contact_email": "tech@mobile.com",
+    "address": "505 Phone St, Boston, MA 02101",
+    "products_supplied": ["product795", "product798"],
+    "rating": 4.9
+  },
+  {
+    "_id": "supplier209",
+    "name": "Adventure Gear",
+    "contact_email": "gear@adventure.com",
+    "address": "606 Trail Blvd, Denver, CO 80201",
+    "products_supplied": ["product796", "product790"],
+    "rating": 4.4
+  },
+  {
+    "_id": "supplier210",
+    "name": "Home Cleaners",
+    "contact_email": "clean@home.com",
+    "address": "707 Sweep Ln, Austin, TX 78701",
+    "products_supplied": ["product797", "product791"],
+    "rating": 4.7
+  },
+  {
+    "_id": "supplier211",
+    "name": "Audio Experts",
+    "contact_email": "experts@audio.com",
+    "address": "808 Sound Dr, Phoenix, AZ 85001",
+    "products_supplied": ["product798", "product789"],
+    "rating": 4.8
+  }
+]

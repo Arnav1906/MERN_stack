@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "category101",
+    "name": "Electronics",
+    "description": "Gadgets and devices for everyday use.",
+    "parent_category": null,
+    "product_count": 150
+  },
+  {
+    "_id": "category102",
+    "name": "Sports",
+    "description": "Equipment and apparel for fitness and outdoor activities.",
+    "parent_category": null,
+    "product_count": 80
+  },
+  {
+    "_id": "category103",
+    "name": "Home Appliances",
+    "description": "Kitchen and household devices.",
+    "parent_category": "home",
+    "product_count": 120
+  },
+  {
+    "_id": "category104",
+    "name": "Books",
+    "description": "Fiction, non-fiction, and educational books.",
+    "parent_category": null,
+    "product_count": 200
+  },
+  {
+    "_id": "category105",
+    "name": "Clothing",
+    "description": "Apparel for men, women, and children.",
+    "parent_category": null,
+    "product_count": 300
+  },
+  {
+    "_id": "category106",
+    "name": "Audio Devices",
+    "description": "Headphones, speakers, and sound systems.",
+    "parent_category": "electronics",
+    "product_count": 50
+  },
+  {
+    "_id": "category107",
+    "name": "Fitness Gear",
+    "description": "Weights, mats, and workout accessories.",
+    "parent_category": "sports",
+    "product_count": 60
+  },
+  {
+    "_id": "category108",
+    "name": "Kitchenware",
+    "description": "Utensils and small appliances for cooking.",
+    "parent_category": "home",
+    "product_count": 90
+  },
+  {
+    "_id": "category109",
+    "name": "Computers",
+    "description": "Laptops, desktops, and accessories.",
+    "parent_category": "electronics",
+    "product_count": 40
+  },
+  {
+    "_id": "category110",
+    "name": "Outdoor Sports",
+    "description": "Gear for hiking, camping, and adventure.",
+    "parent_category": "sports",
+    "product_count": 70
+  }
+]
